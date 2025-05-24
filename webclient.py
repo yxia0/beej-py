@@ -45,11 +45,3 @@ if __name__ == "__main__":
 
     response = http_get(target_address, target_port)
     print(response)
-
-
-
-
-
-
-
-
